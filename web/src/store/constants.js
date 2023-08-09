@@ -1,5 +1,5 @@
-// const BASE_URL = 'http://127.0.0.1:8000'
-const BASE_URL = 'http://124.221.83.178:9015'
+const BASE_URL = 'http://127.0.0.1:8000'
+//const BASE_URL = 'http://124.221.83.178:9015'
 
 const USER_ID = 'user_id'
 const USER_NAME = 'user_name'
